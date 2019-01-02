@@ -28,19 +28,19 @@ It can `export` and also `import` other modules. [More](http://exploringjs.com/e
 
 ## .json
 
-A JSON (JavaScript Object Notation) file. Not JavaScript code, but a piece of data. Commonly used for project configuration under the name `package.json`
+A JSON (JavaScript Object Notation) file. Not JavaScript code, but a piece of data. Commonly used for project configuration under the name `package.json`.
 
 ## .ts
 
-TypeScript file. [TypeScript](https://www.typescriptlang.org/) is JavaScript + static variuable types. You don't load them in the browser, a build step is necessary.
+TypeScript file. [TypeScript](https://www.typescriptlang.org/) is JavaScript + static variable types. You don't load them in the browser, a build step is necessary.
 
 ## .d.ts
 
-A custom type definitions for TypeScript. This is not code meant to be executed, but rather to help define a type to be used in a `.ts` file
+A custom type definitions for TypeScript. This is not code meant to be executed, but rather to help define a type to be used in a `.ts` file.
 
 ## .bundle.js
 
-A production-ready build usuially including several .js files bundled into one. If there's bleeding-edge JS syntax in the source files, these are transpiled into syntax that the browsers understand, e.g. ECMAScript 3. Comonnly minified too.
+A production-ready build usuially including several .js _source_ files _bundled_ into one. If there's bleeding-edge JS syntax in the source files, these are transpiled into syntax that the browsers understand, e.g. ECMAScript 3. Comonnly minified too.
 
 ## .min.js
 
