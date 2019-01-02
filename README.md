@@ -60,3 +60,12 @@ Superset of JavaScript that let's us define markup in the code. Originated by [R
 ## .tsx
 
 TypeScript version of JSX.
+
+
+## .coffee
+
+CoffeeScript file. A dialect of JavaScript with fewer paretheses and braces and move nesting (spaces are meaningful). Needs to be transpiled.
+
+## .cson
+
+CoffeeScript Object Notation. Like JSON but with comments + the things CoffeeScript has to offer (see above).
