@@ -46,6 +46,10 @@ A production-ready build usuially including several .js _source_ files _bundled_
 
 A minified bundle of JavaScript code meant for production web sites.
 
+## .react.js
+
+A [React](https://reactjs.org/) component.
+
 ## .jsx
 
 Superset of JavaScript that let's us define markup in the code. Originated by [React](https://reactjs.org/).
